@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-repository "You are not alone@unity_3222E6798B117A969C4A@cloud"
-=======
-repository "Youre anot alone@CECU_2134@cloud"
->>>>>>> Stashed changes
+repository "You are not alone@CECU_2134@cloud"
   path "/"
     br "/main"
     co "/main"
